@@ -1,1 +1,1 @@
-Display the contents list of your current directory in a long format
+This scripts shows varipus permissions that can be done in shell
